@@ -92,7 +92,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 0648ec71-2e82-4b25-a98f-f1fa8b79f812)
-    (at 236.7 106.68)
+    (at 152.24 81.28)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "LCSC" "")
@@ -367,7 +367,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3738adf2-e2cd-469f-8433-8e892b5965d0)
-    (at 251.94 93.98)
+    (at 167.48 68.58)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "LCSC" "")
@@ -422,7 +422,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3f55f9e3-2671-4d89-94e8-5c2372d1ec66)
-    (at 230.166096 107.549422)
+    (at 145.706096 82.149422)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "LCSC" "")
@@ -618,7 +618,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 6d3d1d9d-bfa1-48ac-a2b8-dc9bb6feae7a)
-    (at 246.86 93.98)
+    (at 162.4 68.58)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "LCSC" "")
@@ -673,7 +673,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 77658fc0-30c1-4216-9ad5-73e9261d6458)
-    (at 249.43 106.68)
+    (at 164.97 81.28)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "LCSC" "")
@@ -1121,7 +1121,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tstamp a11921b1-db9a-49db-a7f4-6751cfb875be)
-    (at 259.59 101.6)
+    (at 175.13 76.2)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "LCSC" "C2909344")
@@ -1176,7 +1176,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp a3137f1a-a836-4a73-a550-76cbefd42c09)
-    (at 190.5 96.77)
+    (at 106.04 71.37)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "shell_shock_pcb.kicad_sch")
@@ -1207,7 +1207,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp b7f9148b-e78a-4681-b3e8-d362e7895f25)
-    (at 230.19 101.6)
+    (at 145.73 76.2)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "LCSC" "")
@@ -1262,7 +1262,7 @@
 
   (footprint "LCSC:DFN-8_L3.0-W3.0-P0.50-BL-EP" (layer "F.Cu")
     (tstamp c18342e3-86db-4d37-9579-084b69a461e3)
-    (at 196.33 97.65)
+    (at 111.87 72.25)
     (property "LCSC" "C462675")
     (property "Sheetfile" "shell_shock_pcb.kicad_sch")
     (property "Sheetname" "")
@@ -1749,7 +1749,7 @@
   (gr_text "1.8V - PS" (at 24.17198 189.175214) (layer "Dwgs.User") (tstamp 0f09585c-61d6-4a99-8ec4-e4a019db35a6)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "1.8V - PS" (at 43.425782 194.156525) (layer "Dwgs.User") (tstamp 2ceed0eb-4fcc-4136-8a8a-ca096be5f7a2)
+  (gr_text "1.5V - PS" (at 43.425782 194.156525) (layer "Dwgs.User") (tstamp 2ceed0eb-4fcc-4136-8a8a-ca096be5f7a2)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
 
